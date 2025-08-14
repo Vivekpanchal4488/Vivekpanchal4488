@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vivek Panchal</h1>
 <h3 align="center">Currently working on Java and Strengthening DSA.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivekpanchal4488" alt="vivekpanchal4488" /></a> </p>
 
 - 🔭 I’m currently working on [Data Structures and Algorithms](https://github.com/Vivekpanchal4488/PasswordStrengthChecker---String.git)
 
