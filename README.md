@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekpanchal4488&show_icons=true&locale=en&layout=compact" alt="vivekpanchal4488" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekpanchal4488&" alt="vivekpanchal4488" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekpanchal4488" alt="vivekpanchal4488" /></p>
