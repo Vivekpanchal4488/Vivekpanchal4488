@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vivek Panchal</h1>
 <h3 align="center">Currently working on Java and Strengthening DSA.</h3>
 
-- 🔭 I’m currently working on [Data Structures and Algorithms](https://github.com/Vivekpanchal4488/DSA-Java)
+- 🔭 I’m currently working on [Full-Stack Devlopment](https://github.com/Vivekpanchal4488/DSA-Java)
 
 - 🌱 I’m currently learning **DSA in Java & Web-Devlopment**
 
